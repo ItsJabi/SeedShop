@@ -1,6 +1,6 @@
-# login_signupforms
+# Seed Shop
 
-A new Flutter project.
+A simple app where user can buy seeds (without DataBase).
 
 ## Getting Started
 
